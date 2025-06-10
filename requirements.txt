@@ -1,0 +1,28 @@
+FuzzyTM
+pillow
+protobuf
+catboost==1.2.7
+lightgbm==4.6.0
+xgboost==2.0.3
+scikit-learn==1.2.2
+imbalanced-learn==0.12.4
+optuna==4.2.1
+tensorflow==2.18.0
+tensorflow-io #==0.37.1
+tensorflow-hub==0.16.1
+tensorflow-datasets==4.9.7
+tensorflow-io-gcs-filesystem #==0.37.1
+torch==2.5.1
+torchvision==0.20.1
+torchaudio==2.5.1
+pytorch-lightning==2.5.1
+transformers==4.51.1
+sentence-transformers==3.4.1
+fastai==2.7.18
+keras==3.5.0
+keras-tuner==1.4.7
+optax==0.2.4
+jax==0.4.33
+jaxlib==0.4.33
+shap==0.44.1
+scikit-posthocs==0.11.4
